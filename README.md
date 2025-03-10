@@ -12,3 +12,6 @@ Simply open the `index.html` file in a web browser to view the gallery. The imag
 ## Contributing
 
 This project is intended for demonstration purposes and is not actively seeking contributions. Feel free to fork the repository if you want to modify or extend it for your own purposes.
+
+#link
+https://sharmiliseshasayi.github.io/gallery-image-web/
